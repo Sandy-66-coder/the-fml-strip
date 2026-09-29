@@ -1,0 +1,23 @@
+THE FML STRIP - RETRO GUI SPEC
+
+Top Center:
+THE FML STRIP
+
+Knobs:
+[INPUT] [WARMTH] [MUD] [COMP] [AIR] [WIDTH] [OUTPUT]
+
+Meters:
+- Input VU
+- Warmth Activity
+- Mud Reduction
+- Gain Reduction
+- Air Activity
+- Width Activity
+- Output VU
+
+Visual Theme:
+- Brushed dark steel
+- Aged brass screws
+- Amber backlighting
+- Bakelite knobs
+- Cream legends
